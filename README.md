@@ -11,6 +11,9 @@ Computer Science BSc (Hons) @ QMUL (2022-2025) <br>
 1st Year : 75%<br>
 2nd Year : /<br>
 3rd Year : /<br>
+<br>
+Cardinal Wiseman Highschool, Greenford<br>
+AAA - Maths, Physics, Economics
 
 ## Tech stack
 Current Skills:<br>
