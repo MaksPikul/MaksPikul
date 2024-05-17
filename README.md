@@ -1,6 +1,6 @@
-## Hi there 👋
+## Maks Pikul's Github Page👋
 
-## Profile
+## About me
 Current undergrad Computer Science student as Queen Mary University of London <br>
 Ambitious and enthusiastic to learn <br>
 Aspiring data engineer / software developer <br>
@@ -11,7 +11,6 @@ Computer Science BSc (Hons) @ QMUL (2022-2025) <br>
 1st Year : 75%<br>
 2nd Year : /<br>
 3rd Year : /<br>
-
 
 # Tech stack
 
