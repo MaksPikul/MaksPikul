@@ -30,11 +30,22 @@ Current Skills:<br>
 <br>
 In Progress:<br> ![AWS Cloud Practitioner](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## Projects
-
+## Projects - Repos below
+- Planner Web Application 
+- Wellbeing mobile application project for Software Engineering Module
+- Python Data project <br>
+Predicting Rank based on Player Statistics - Created functions which use Riot Games Api to extract statistics of 2200 unique users, Used Python libraries to Analyze collected data, finally prepared data for training using a selected ML algorithm.<br> https://www.kaggle.com/datasets/makspl/league-of-legends-player-statistics
 
 <!--
 **MaksPikul/MaksPikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+For project tab, write down
+What it is and what can it do,
+why i made it ,
+How it was made,
+What i learnt
+
+
 
 Here are some ideas to get you started:
 
