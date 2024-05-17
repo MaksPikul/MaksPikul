@@ -6,6 +6,8 @@ Ambitious and enthusiastic to learn <br>
 Aspiring data engineer / software developer <br>
 QMUL Muay Thai Society Training Captain <br>
 
+## Links
+
 ## Education
 Computer Science BSc (Hons) @ QMUL (2022-2025) <br>
 1st Year : 75%<br>
@@ -27,8 +29,6 @@ Current Skills:<br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 In Progress:<br> ![AWS Cloud Practitioner](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## Links
 
 ## Projects
 
