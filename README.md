@@ -1,4 +1,24 @@
-### Hi there 👋
+## Hi there 👋
+
+## Profile
+Current undergrad Computer Science student as Queen Mary University of London <br>
+Ambitious and enthusiastic to learn <br>
+Aspiring data engineer / software developer <br>
+QMUL Muay Thai Society Training Captain <br>
+
+## Education
+Computer Science BSc (Hons) @ QMUL (2022-2025) <br>
+1st Year : 75%<br>
+2nd Year : /<br>
+3rd Year : /<br>
+
+
+# Tech stack
+
+# Links
+
+# Project mentions
+
 
 <!--
 **MaksPikul/MaksPikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
