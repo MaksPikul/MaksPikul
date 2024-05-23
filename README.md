@@ -47,7 +47,8 @@ In Progress:<br> ![AWS Cloud Practitioner](https://img.shields.io/badge/Amazon_A
   (Demo of interface available in Repo README)
   
 ### - Web-app login/sign-up functionality 
-  
+  Used React, JavaScript, Express, and PostgreSQL to build API routes which handle login, register and cookie sessions<br>
+  No pictures because it doesn't look nice but it works cool
   
 ### - Python Data project <br>
 Predicting Rank based on Player Statistics - Created functions which use Riot Games Api to extract statistics of 2200 unique users, Used Python libraries to Analyze collected data, finally prepared data for training using a selected ML algorithm.<br> https://www.kaggle.com/datasets/makspl/league-of-legends-player-statistics
