@@ -2,9 +2,9 @@
 
 ## About me
 Current undergrad Computer Science student as Queen Mary University of London <br>
-Ambitious and enthusiastic to learn <br>
 Aspiring data engineer / software developer <br>
 QMUL Muay Thai Society Training Captain <br>
+Constantly Learning <br>
 
 ## Links
 
