@@ -25,15 +25,31 @@ Current Skills:<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 In Progress:<br> ![AWS Cloud Practitioner](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Projects - Repos below
-- Planner Web Application 
-- Wellbeing mobile application project for Software Engineering Module
-- Python Data project <br>
+### - Planner Web Application - In Progress
+  Personal Full-Stack Web application which aims to increase personal productivity<br>
+  Goal acheived with functionalites which allow for Schedule setting, focus session timers, Board creation for monitoring tasks statuses<br><br>
+  Gamification and social features included to encourage productivity (shared user statistics and activity)<br>
+  Tech-Stack used: <br>
+  TypeScript , Tailwind css , React library , Next.js framework (server actions, folder routing) ,<br>
+  Auth.js (Credential & OAuth provider Authentication) , Prisma ORM , PostgreSQL
+  
+  
+### - Wellbeing mobile application project for Software Engineering Module<br>
+  Worked in a group of 6 to create Domain analysis, Requirement elicitation and Design documents, <br>followed by a Mobile-application Prototype for FDM group.<br>
+  My role in the group was to create the front end functionalities of the fitness section using React-Native and Javascript as well as manage team deadlines and efforts.<br>
+  (Demo of interface available in Repo README)
+  
+### - Web-app login/sign-up functionality 
+  
+  
+### - Python Data project <br>
 Predicting Rank based on Player Statistics - Created functions which use Riot Games Api to extract statistics of 2200 unique users, Used Python libraries to Analyze collected data, finally prepared data for training using a selected ML algorithm.<br> https://www.kaggle.com/datasets/makspl/league-of-legends-player-statistics
 
 <!--
