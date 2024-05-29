@@ -48,6 +48,7 @@ In Progress:<br> ![AWS Cloud Practitioner](https://img.shields.io/badge/Amazon_A
   
 ### - Web-app login/sign-up functionality 
   Used React, JavaScript, Express, and PostgreSQL to build API routes which handle login, register and cookie sessions<br>
+  + Client/server side validation using formik and yup.
   No pictures because it doesn't look nice but it works cool
   
 ### - Python Data project <br>
