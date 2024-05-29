@@ -34,9 +34,9 @@ In Progress:<br> ![AWS Cloud Practitioner](https://img.shields.io/badge/Amazon_A
 ## Projects - Repos below
 ### - Planner Web Application - In Progress
   Personal Full-Stack Web application which aims to increase personal productivity<br>
-  Goal acheived with functionalites which allow for Schedule setting, focus session timers, Board creation for monitoring tasks statuses<br><br>
+  Goal acheived with functionalites which allow for Schedule setting, focus session timers, Board creation for monitoring tasks statuses<br>
   Gamification and social features included to encourage productivity (shared user statistics and activity)<br>
-  Tech-Stack used: <br>
+  <b>Tech-Stack used:</b> <br>
   TypeScript , Tailwind css , React library , Next.js framework (server actions, folder routing) ,<br>
   Auth.js (Credential & OAuth provider Authentication) , Prisma ORM , PostgreSQL
   
@@ -48,7 +48,7 @@ In Progress:<br> ![AWS Cloud Practitioner](https://img.shields.io/badge/Amazon_A
   
 ### - Web-app login/sign-up functionality 
   Used React, JavaScript, Express, and PostgreSQL to build API routes which handle login, register and cookie sessions<br>
-  + Client/server side validation using formik and yup.
+  +Client/server side validation using formik and yup.
   No pictures because it doesn't look nice but it works cool
   
 ### - Python Data project <br>
