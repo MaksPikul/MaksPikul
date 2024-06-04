@@ -37,8 +37,8 @@ In Progress:<br> ![AWS Cloud Practitioner](https://img.shields.io/badge/Amazon_A
   Goal acheived with functionalites which allow for Schedule setting, focus session timers, Board creation for monitoring tasks statuses<br>
   Gamification and social features included to encourage productivity (shared user statistics and activity)<br>
   <b>Tech-Stack used:</b> <br>
-  TypeScript , Tailwind css , React library , Next.js framework (server actions, folder routing) ,<br>
-  Auth.js (Credential & OAuth provider Authentication) , Prisma ORM , PostgreSQL
+  TypeScript , Tailwind css , React library , Next.js framework ,<br>
+  Auth.js (Credential & OAuth provider Authentication) , Prisma ORM , Supabase PostgreSQL & S3 bucket
   
   
 ### - Wellbeing mobile application project for Software Engineering Module<br>
