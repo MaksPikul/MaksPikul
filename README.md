@@ -7,7 +7,7 @@ QMUL Muay Thai Society committee member 2024 (training captain)<br>
 Constantly Learning <br>
 
 ## Contact
-Email: mmaks522@gmail.com
+Email: mmaks522@gmail.com <br>
 LinkedIn: maksymilian-pikul-b808742b2
 
 ## Education
