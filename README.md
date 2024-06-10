@@ -8,7 +8,7 @@ Constantly Learning <br>
 
 ## Contact
 Email: mmaks522@gmail.com <br>
-LinkedIn: maksymilian-pikul-b808742b2
+LinkedIn: [maksymilian-pikul-b808742b2](https://www.linkedin.com/in/maksymilian-pikul-b808742b2/)
 
 ## Education
 Computer Science BSc (Hons) @ QMUL (2022-2025) <br>
