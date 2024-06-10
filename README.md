@@ -6,7 +6,9 @@ Aspiring data engineer / software developer <br>
 QMUL Muay Thai Society committee member 2024 (training captain)<br>
 Constantly Learning <br>
 
-## Links
+## Contact
+Email: mmaks522@gmail.com
+LinkedIn: maksymilian-pikul-b808742b2
 
 ## Education
 Computer Science BSc (Hons) @ QMUL (2022-2025) <br>
