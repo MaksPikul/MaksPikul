@@ -40,7 +40,7 @@ Current Skills:<br>
   Full-Stack app using React with TypeScript for Front-End, and ASP.Net with C# for Back-End
   - Built and Tested RESTFUL API routes for CRUD operations, protected with Cookie-based authorization.
   - Implemented live updates using Web Sockets with SignalR for chat and notification services.
-	- Utilized AWS services such as SES and S3 instead of relying on third party services.
+  - Utilized AWS services such as SES and S3 instead of relying on third party services.
   - Configured background task scheduling to clean the database.			
   - Planning to implement processing of payments and deploying as a docker containerized app.
 
