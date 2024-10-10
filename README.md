@@ -36,19 +36,27 @@ Current Skills:<br>
 <br>
 
 ## Projects - Repos below
-### - Planner Web Application - In Progress
-  Personal Full-Stack Web application which aims to increase personal productivity<br>
-  Goal acheived with functionalites which allow for Schedule setting, focus session timers, Board creation for monitoring tasks statuses<br>
-  Gamification and social features included to encourage productivity (shared user statistics and activity)<br>
-  <b>Tech-Stack used:</b> <br>
-  TypeScript , Tailwind css , React library , Next.js framework ,<br>
-  Auth.js (Credential & OAuth provider Authentication) , Prisma ORM , Supabase PostgreSQL 
-  
+### - Combat Sport Event Management Web Tool - In progress
+  Full-Stack app using React with TypeScript for Front-End, and ASP.Net with C# for Back-End
+  - Built and Tested RESTFUL API routes for CRUD operations, protected with Cookie-based authorization.
+  - Implemented live updates using Web Sockets with SignalR for chat and notification services.
+	- Utilized AWS services such as SES and S3 instead of relying on third party services.
+  - Configured background task scheduling to clean the database.			
+  - Planning to implement processing of payments and deploying as a docker containerized app.
+
+
+### - Planner Web Application
+Full-Stack Web application using NextJs and TypeScript,
+Application with credential and OAuth authentication, allows users to create projects where owner and those invited to project can create, delete and update tasks if their roles allow them.
+Tech-Stack used: TypeScript, Tailwind CSS, React library, Next.js framework (server actions, folder routing), Auth.js (Credential & OAuth provider Authentication), Prisma ORM, PostgreSQL
   
 ### - Wellbeing mobile application project for Software Engineering Module<br>
-  Worked in a group of 6 to create Domain analysis, Requirement elicitation and Design documents, <br>followed by a Mobile-application Prototype for FDM group.<br>
-  My role in the group was to create the front end functionalities of the fitness section using React-Native and Javascript as well as manage team deadlines and efforts.<br>
-  (Demo of interface available in Repo README)
+  Worked in a group of 6 to create Domain analysis, Requirement elicitation and Design documents followed by creating a Mobile-app Prototype for FDM group.
+  - Created the front-end for Core UI of App using React Native and JavaScript
+  - Presented planning documents and final application to a representative of the FDM Group
+  - Managed team deadlines, tasks and monitored their efforts
+  (Demo of UI available in GitHub Repo README)
+
   
 ### - Web-app login/sign-up functionality 
   Used React, JavaScript, Express, and PostgreSQL to build API routes which handle login, register and cookie sessions<br>
@@ -56,7 +64,7 @@ Current Skills:<br>
   No pictures because it doesn't look nice but it works cool
   
 ### - Python Data project <br>
-Predicting Rank based on Player Statistics - Created functions which use Riot Games Api to extract statistics of 2200 unique users, Used Python libraries to Analyze collected data, finally prepared data for training using a selected ML algorithm.<br> https://www.kaggle.com/datasets/makspl/league-of-legends-player-statistics
+Predicting Rank based on Player Statistics - Created functions which use Riot Games Api to extract statistics of 2200 unique users, Used Python libraries to Analyze collected data, finally prepared data for       training using a selected ML algorithm.<br> https://www.kaggle.com/datasets/makspl/league-of-legends-player-statistics
 
 <!--
 **MaksPikul/MaksPikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
