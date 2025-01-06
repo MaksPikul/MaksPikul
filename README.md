@@ -38,12 +38,11 @@ Current Skills:<br>
 ## Projects - Repos below
 ### - Combat Sport Event Management Web Tool - In progress
   Full-Stack app using React with TypeScript for Front-End, and ASP.Net with C# for Back-End
-  - Built and Tested RESTFUL API routes for CRUD operations, protected with Cookie-based authorization.
-  - Implemented live updates using Web Sockets with SignalR for chat and notification services.
+  - Followed Clean Code principles and Implemented Design patterns wherever necessary, to best of my ability.
+  - Built and Testing RESTFUL API routes for CRUD operations, protected with Cookie-based authorization.
+  - Implemented live updates using Web Sockets with SignalR for chat features.
   - Utilized AWS services such as SES and S3 instead of relying on third party services.
-  - Configured background task scheduling to clean the database.			
-  - Planning to implement processing of payments and deploying as a docker containerized app.
-
+(Currently documenting Back-End Code samples, Working on cleaning Some front end code parts)
 
 ### - Planner Web Application
 Full-Stack Web application using NextJs and TypeScript,
@@ -56,15 +55,12 @@ Tech-Stack used: TypeScript, Tailwind CSS, React library, Next.js framework (ser
   - Presented planning documents and final application to a representative of the FDM Group
   - Managed team deadlines, tasks and monitored their efforts
   (Demo of UI available in GitHub Repo README)
-
   
 ### - Web-app login/sign-up functionality 
   Used React, JavaScript, Express, and PostgreSQL to build API routes which handle login, register and cookie sessions<br>
   +Client/server side validation using formik and yup.
   No pictures because it doesn't look nice but it works cool
-  
-### - Python Data project <br>
-Predicting Rank based on Player Statistics - Created functions which use Riot Games Api to extract statistics of 2200 unique users, Used Python libraries to Analyze collected data, finally prepared data for       training using a selected ML algorithm.<br> https://www.kaggle.com/datasets/makspl/league-of-legends-player-statistics
+
 
 <!--
 **MaksPikul/MaksPikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
