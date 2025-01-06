@@ -40,6 +40,7 @@ Current Skills:<br>
   Full-Stack app using React with TypeScript for Front-End, and ASP.Net with C# for Back-End
   - Followed Clean Code principles and Implemented Design patterns wherever necessary, to best of my ability.
   - Built and Testing RESTFUL API routes for CRUD operations, protected with Cookie-based authorization.
+  - Authentication of users using Credential Login and OAuth with simple provider extensibility
   - Implemented live updates using Web Sockets with SignalR for chat features.
   - Utilized AWS services such as SES and S3 instead of relying on third party services.
 (Currently documenting Back-End Code samples, Working on cleaning Some front end code parts)
