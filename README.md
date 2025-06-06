@@ -1,10 +1,12 @@
 ## Maks Pikul's Github Page👋
 
 ## About me
-Current undergrad Computer Science student as Queen Mary University of London <br>
-Aspiring software developer <br>
-QMUL Muay Thai Society committee member 2024 (training captain)<br>
-Constantly Learning <br>
+Computer Science Graduate with hands-on experience in Full-Stack development. <br>
+Passionate about Designing and Implementing Scalable and Performant Systems. <br>
+1 Year of Back-End Development Experience.<br>
+
+## Currently Learning
+GO and AWS (DVA-C02)
 
 ## Contact
 Email: mmaks522@gmail.com <br>
@@ -41,7 +43,6 @@ Current Skills:<br>
   -	Built Unit and Integration tests to verify functionality and module connectivity. 
   -	Containerized Azure Services (CosmosDb, Redis, etc.) in a Docker-Compose Stack to simplify local development and deployment.
 
-
 ### - Combat Sport Event Management Web Tool 
   Full-Stack app using React with TypeScript for Front-End, and ASP.Net with C# for Back-End
   - Followed Clean Code principles and Implemented Design patterns wherever necessary, to best of my ability.
@@ -50,11 +51,6 @@ Current Skills:<br>
   - Implemented live updates using Web Sockets with SignalR for chat features.
   - Utilized AWS services such as SES and S3 instead of relying on third party services.
 (Currently documenting Back-End Code samples, Working on cleaning Some front end code parts)
-
-### - Planner Web Application
-Full-Stack Web application using NextJs and TypeScript,
-Application with credential and OAuth authentication, allows users to create projects where owner and those invited to project can create, delete and update tasks if their roles allow them.
-Tech-Stack used: TypeScript, Tailwind CSS, React library, Next.js framework (server actions, folder routing), Auth.js (Credential & OAuth provider Authentication), Prisma ORM, PostgreSQL
   
 ### - Wellbeing mobile application project for Software Engineering Module<br>
   Worked in a group of 6 to create Domain analysis, Requirement elicitation and Design documents followed by creating a Mobile-app Prototype for FDM group.
@@ -62,6 +58,11 @@ Tech-Stack used: TypeScript, Tailwind CSS, React library, Next.js framework (ser
   - Presented planning documents and final application to a representative of the FDM Group
   - Managed team deadlines, tasks and monitored their efforts
   (Demo of UI available in GitHub Repo README)
+
+<b>Some noteable projects</b> <br>
+Planner Web Application
+Python CS_50_P stuff
+C# Game Development exploration
 
 
 <!--
