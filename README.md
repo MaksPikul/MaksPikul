@@ -14,9 +14,7 @@ LinkedIn: [maksymilian-pikul-b808742b2](https://www.linkedin.com/in/maksymilian-
 
 ## Education
 Computer Science BSc (Hons) @ QMUL (2022-2025) <br>
-1st Year : 75%<br>
-2nd Year : /74%<br>
-3rd Year : /<br>
+1st Class Honours
 <br>
 Cardinal Wiseman Highschool, Greenford<br>
 AAB - Maths, Physics, Economics
