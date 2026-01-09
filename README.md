@@ -1,12 +1,7 @@
-## Maks Pikul's Github Page👋
+## Maks Pikul
 
 ## About me
-Computer Science Graduate with hands-on experience in Full-Stack development. <br>
-Passionate about Designing and Implementing Scalable and Performant Systems. <br>
-1 Year of Back-End Development Experience.<br>
-
-## Currently Learning
-GO and AWS (DVA-C02)
+.NET Junior Back-end Developer <br>
 
 ## Contact
 Email: mmaks522@gmail.com <br>
@@ -15,9 +10,6 @@ LinkedIn: [maksymilian-pikul-b808742b2](https://www.linkedin.com/in/maksymilian-
 ## Education
 Computer Science BSc (Hons) @ QMUL (2022-2025) <br>
 1st Class Honours
-<br>
-Cardinal Wiseman Highschool, Greenford<br>
-AAB - Maths, Physics, Economics
 
 ## Tech stack
 Current Skills:<br>
@@ -30,38 +22,7 @@ Current Skills:<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<br>
-
-## Projects - Repos below
-### - Proximity-Based Chat Application – Final Year Project
-  Full-Stack mobile application with Kotlin for Client and ASP.Net for Server. 
-  -	Real-time features implemented using SignalR web sockets, Firebase Cloud Messaging and Google Location Services. 
-  -	Applied Clean Architecture and SOLID principles to enforce modularity and testability. 
-  -	Utilized Design Patterns (e.g., Observer, Strategy, Decorator) to achieve extensibility and code clarity. 
-  -	Built Unit and Integration tests to verify functionality and module connectivity. 
-  -	Containerized Azure Services (CosmosDb, Redis, etc.) in a Docker-Compose Stack to simplify local development and deployment.
-
-### - Combat Sport Event Management Web Tool 
-  Full-Stack app using React with TypeScript for Front-End, and ASP.Net with C# for Back-End
-  - Followed Clean Code principles and Implemented Design patterns wherever necessary, to best of my ability.
-  - Built and Testing RESTFUL API routes for CRUD operations, protected with Cookie-based authorization.
-  - Authentication of users using Credential Login and OAuth with simple provider extensibility
-  - Implemented live updates using Web Sockets with SignalR for chat features.
-  - Utilized AWS services such as SES and S3 instead of relying on third party services.
-(Currently documenting Back-End Code samples, Working on cleaning Some front end code parts)
-  
-### - Wellbeing mobile application project for Software Engineering Module<br>
-  Worked in a group of 6 to create Domain analysis, Requirement elicitation and Design documents followed by creating a Mobile-app Prototype for FDM group.
-  - Created the front-end for Core UI of App using React Native and JavaScript
-  - Presented planning documents and final application to a representative of the FDM Group
-  - Managed team deadlines, tasks and monitored their efforts
-  (Demo of UI available in GitHub Repo README)
-
-<b>Some noteable projects</b> <br>
-Planner Web Application
-Python CS_50_P stuff
-C# Game Development exploration
-
+<br
 
 <!--
 **MaksPikul/MaksPikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
